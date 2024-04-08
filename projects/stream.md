@@ -23,4 +23,4 @@ And it's easily self-hostable with
 [docker](https://github.com/terror/stream/blob/master/Dockerfile).
 
 Links: [GitHub](https://github.com/terror/stream),
-[Website](https://stream.liam.rs/)
+[Website](https://stream.harunmistik.com.tr/)

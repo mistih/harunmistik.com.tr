@@ -1,9 +1,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>liam's blog</title>
-    <link>https://liam.rs</link>
+    <link>https://harunmistik.com.tr</link>
     <description>programming, software, books</description>
-    <atom:link href="https://liam.rs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://harunmistik.com.tr/index.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     <copyright>Creative Commons BY-NC-SA 4.0</copyright>
     <item>
@@ -67,9 +67,9 @@ src="https://asciinema.org/a/507405.svg" alt="asciicast" /&gt;&lt;/a&gt;&lt;/p&g
 &lt;p&gt;A reference of my full neovim configuration can be found on github,
 in my &lt;a href="https://github.com/terror/dotfiles"&gt;dotfiles&lt;/a&gt; repo. Be
 sure to check it out!&lt;/p&gt;</description>
-<link>https://liam.rs/posts/Incremental-select-with-treesitter/</link>
+<link>https://harunmistik.com.tr/posts/Incremental-select-with-treesitter/</link>
 <pubDate>Sat, 09 Jul 2022 04:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/Incremental-select-with-treesitter/</guid>
+<guid>https://harunmistik.com.tr/posts/Incremental-select-with-treesitter/</guid>
 </item>
 <item>
 <title>Powerful-`just`-features</title>
@@ -237,9 +237,9 @@ single source of truth in regards to project specific commands, and
 href="https://github.com/casey/just"&gt;official readme&lt;/a&gt; document on
 GitHub for more information and further elaboration on the features
 mentioned here.&lt;/p&gt;</description>
-<link>https://liam.rs/posts/Powerful-`just`-features/</link>
+<link>https://harunmistik.com.tr/posts/Powerful-`just`-features/</link>
 <pubDate>Tue, 12 Apr 2022 04:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/Powerful-`just`-features/</guid>
+<guid>https://harunmistik.com.tr/posts/Powerful-`just`-features/</guid>
 </item>
 <item>
 <title>Scripting-in-markdown</title>
@@ -375,9 +375,9 @@ href="https://github.com/terror/present"&gt;https://github.com/terror/present&lt
 It is licensed under the highly permissive &lt;a
 href="https://en.wikipedia.org/wiki/Creative_Commons_license"&gt;CC0-1.0&lt;/a&gt;
 license.&lt;/p&gt;</description>
-<link>https://liam.rs/posts/Scripting-in-markdown/</link>
+<link>https://harunmistik.com.tr/posts/Scripting-in-markdown/</link>
 <pubDate>Sun, 27 Feb 2022 05:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/Scripting-in-markdown/</guid>
+<guid>https://harunmistik.com.tr/posts/Scripting-in-markdown/</guid>
 </item>
 <item>
 <title>From-bash-to-vim-and-back</title>
@@ -419,9 +419,9 @@ alot, and sometimes I quit the editor to run some arbitrary Bash
 command. Without having to search for the previously opened file, I
 invoke &lt;code&gt;lv&lt;/code&gt;, which gets me back to where I was at.&lt;/p&gt;
 &lt;p&gt;From bash to vim and back, in a flash.&lt;/p&gt;</description>
-<link>https://liam.rs/posts/From-bash-to-vim-and-back/</link>
+<link>https://harunmistik.com.tr/posts/From-bash-to-vim-and-back/</link>
 <pubDate>Fri, 25 Feb 2022 05:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/From-bash-to-vim-and-back/</guid>
+<guid>https://harunmistik.com.tr/posts/From-bash-to-vim-and-back/</guid>
 </item>
 <item>
 <title>Ergonomic-error-handling-in-Rust</title>
@@ -704,9 +704,9 @@ to, and knowing this you should make the best of the situation by
 crafting your own error types that other people can use in their
 applications. You can either make it tedious, by doing it by hand, or by
 using the nifty &lt;code&gt;snafu&lt;/code&gt; library to do the job.&lt;/p&gt;</description>
-<link>https://liam.rs/posts/Ergonomic-error-handling-in-Rust/</link>
+<link>https://harunmistik.com.tr/posts/Ergonomic-error-handling-in-Rust/</link>
 <pubDate>Sun, 22 Aug 2021 04:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/Ergonomic-error-handling-in-Rust/</guid>
+<guid>https://harunmistik.com.tr/posts/Ergonomic-error-handling-in-Rust/</guid>
 </item>
 <item>
 <title>Higher-order-functions</title>
@@ -852,9 +852,9 @@ worth while design choice when composing large scale and complex
 applications.&lt;/p&gt;
 &lt;p&gt;All of the functions written for this post can be found here -&amp;gt; &lt;a
 href="https://gist.github.com/terror/4d86aaf49cc724d0bfe5af11d05da88e"&gt;https://gist.github.com/terror/4d86aaf49cc724d0bfe5af11d05da88e&lt;/a&gt;&lt;/p&gt;</description>
-<link>https://liam.rs/posts/Higher-order-functions/</link>
+<link>https://harunmistik.com.tr/posts/Higher-order-functions/</link>
 <pubDate>Tue, 08 Jun 2021 04:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/Higher-order-functions/</guid>
+<guid>https://harunmistik.com.tr/posts/Higher-order-functions/</guid>
 </item>
 <item>
 <title>Binary-search-for-bugs</title>
@@ -884,9 +884,9 @@ you can evaluate using &lt;code&gt;git bisect good&lt;/code&gt; or
 &lt;p&gt;It is clear that using this method, over the linear scan approach,
 can save a tremendous amount of time in the quest for finding where a
 breaking change was introduced.&lt;/p&gt;</description>
-<link>https://liam.rs/posts/Binary-search-for-bugs/</link>
+<link>https://harunmistik.com.tr/posts/Binary-search-for-bugs/</link>
 <pubDate>Mon, 15 Feb 2021 05:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/Binary-search-for-bugs/</guid>
+<guid>https://harunmistik.com.tr/posts/Binary-search-for-bugs/</guid>
 </item>
 <item>
 <title>How-I-read-blogs</title>
@@ -938,9 +938,9 @@ class="sourceCode bash"&gt;&lt;code class="sourceCode bash"&gt;&lt;span id="cb1-
 &lt;li&gt;Read and archive those articles&lt;/li&gt;
 &lt;li&gt;Repeat&lt;/li&gt;
 &lt;/ol&gt;</description>
-<link>https://liam.rs/posts/How-I-read-blogs/</link>
+<link>https://harunmistik.com.tr/posts/How-I-read-blogs/</link>
 <pubDate>Sun, 15 Nov 2020 05:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/How-I-read-blogs/</guid>
+<guid>https://harunmistik.com.tr/posts/How-I-read-blogs/</guid>
 </item>
 <item>
 <title>Useful-git-aliases</title>
@@ -976,9 +976,9 @@ branch&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;last&lt;/code&gt; shows information for the last commit&lt;/p&gt;
 &lt;p&gt;Whether they make me more productive or not, I just enjoy using them
 and see no reason not to.&lt;/p&gt;</description>
-<link>https://liam.rs/posts/Useful-git-aliases/</link>
+<link>https://harunmistik.com.tr/posts/Useful-git-aliases/</link>
 <pubDate>Wed, 02 Sep 2020 04:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/Useful-git-aliases/</guid>
+<guid>https://harunmistik.com.tr/posts/Useful-git-aliases/</guid>
 </item>
 <item>
 <title>Chaining-comparison-operators</title>
@@ -1011,9 +1011,9 @@ class="sourceCode python"&gt;&lt;code class="sourceCode python"&gt;&lt;span id="
 &lt;span id="cb4-4"&gt;&lt;a href="#cb4-4" aria-hidden="true" tabindex="-1"&gt;&lt;/a&gt;&lt;span class="co"&gt;# True&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;You can see how tedious things might get. Python continues to amaze
 me with how beautiful and concise it can be.&lt;/p&gt;</description>
-<link>https://liam.rs/posts/Chaining-comparison-operators/</link>
+<link>https://harunmistik.com.tr/posts/Chaining-comparison-operators/</link>
 <pubDate>Tue, 25 Aug 2020 04:00:00 +0000</pubDate>
-<guid>https://liam.rs/posts/Chaining-comparison-operators/</guid>
+<guid>https://harunmistik.com.tr/posts/Chaining-comparison-operators/</guid>
 </item>
 
   </channel>

@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "liam-rs"
 version = "0.0.0"
-description = "Scripts for https://liam.rs/"
+description = "Scripts for https://harunmistik.com.tr/"
 authors = ["Liam <liam@scalzulli.com>"]
 license = "CC0-1.0"
 readme = "README.md"
