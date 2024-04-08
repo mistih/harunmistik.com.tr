@@ -6,16 +6,9 @@
     <meta name="msapplication-TileColor" content="#da532c" />
     <meta name="theme-color" content="#ffffff" />
     <meta name="viewport" content="initial-scale=1" />
-    <meta property="og:title" content="harun" />
-    <meta property="og:description" content="harun's musings" />
+    <meta property="og:title" content="Useful git aliases" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://harunmistik.com.tr" />
-    <link
-      rel="alternate"
-      type="application/atom+xml"
-      title="harun's musings"
-      href="./index.xml"
-    />
     <link
       rel="apple-touch-icon"
       sizes="180x180"
@@ -34,13 +27,9 @@
       href="/favicon/favicon-16x16.png"
     />
     <link rel="manifest" href="/favicon/site.webmanifest" />
-    <link
-      rel="mask-icon"
-      href="/favicon/safari-pinned-tab.svg"
-      color="#5bbad5"
-    />
     <link rel="stylesheet" href="/css/style.css" />
-    <title>harunmistik.com.tr</title>
+    <link rel="stylesheet" href="/css/syntax.css" />
+    <title>Gizliliğini İhlal Ediyorlar · harunmistik.com.tr</title>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
@@ -56,17 +45,33 @@
     </script>
   </head>
   <body>
-    <div>
-      <img
-        class="avatar"
-        src="https://files.catbox.moe/m4odbk.jpeg"
-        width="100"
-        height="100"
-      />
-      <h4 class="subheading">harun's musings</h4>
-    </div>
     <div class="posts">
       <div class="post">
+        <a href="/" class="post-end-link">Ana Sayfa</a>
+        <span>/</span>
+        <a href="/posts" class="post-end-link">Gönderiler</a>
+        <span>/</span>
+        <a class="post-end-link">Gizliliğini İhlal Ediyorlar</a>
+        <a
+          class="stats post-end-link"
+          href="https://raw.githubusercontent.com/mistih/harunmistik.com.tr/master/posts/gizliligini-ihlal-ediyorlar.md
+"
+          >Ham Görüntüle</a
+        >
+        <div class="separator"></div>
+        <div class="date">
+          04/08 — 2024
+          <div class="stats">
+            <span class="stats-number"> 3.2 </span>
+            <span class="stats-unit">dk</span>
+          </div>
+        </div>
+        <h1>Gizliliğini ihlal ediyorlar</h1>
+        <div class="post-text">
+
+
+        </div>
+
         <div class="intro">
           Merhaba.
           <div class="hot-links">
@@ -91,45 +96,33 @@
           </p>
         </div>
 
-        <table>
-          <tr>
-            <td class="recent-heading">
-              <span class="recent-heading">Son Gönderiler</span>
-            </td>
-          </tr>
-
-          <tr>
-            <td class="table-post">
-              <div class="date">08/04 — 2024</div>
-              <a href="/posts/gizliligini-ihlal-ediyorlar" class="post-link">
-                <span class="post-link">Gizliliğini İhlal Ediyorlar!</span>
-              </a>
-            </td>
-            <td class="table-stats">
-              <span class="stats-number"> 3.2 </span>
-              <span class="stats-unit">dk</span>
-            </td>
-          </tr>
-          <tr>
-            <td><a href="/posts" class="post-end-link">Daha Fazla ⟶ </a></td>
-          </tr>
-        </table>
-        <div class="separator"></div>
-        <div class="footer">
-          <a href="/projects">Projeler</a> ·
-          <a href="https://linkedin.com/in/harunmistik" target="_blank"
-            >LinkedIn</a
-          >
-          · <a href="https://github.com/mistih" target="_blank">Github</a> ·
-          <a href="mailto:mistih.dev@gmail.com">Mail</a> ·
-          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-            <img
-              class="footimgs"
-              src="https://d33wubrfki0l68.cloudfront.net/94387e9d77fbc8b4360db81e72603ecba3df94a7/632bc/static/cc.svg"
-            />
-          </a>
-        </div>
+        <a href="/" class="post-end-link">Ana Sayfa</a>
+        <span>/</span>
+        <a href="/posts" class="post-end-link">Gönderiler</a>
+        <span>/</span>
+        <a class="post-end-link">Gizliliğini İhlal Ediyorlar</a>
+        <a
+          class="stats post-end-link"
+          href="https://raw.githubusercontent.com/mistih/harunmistik.com.tr/master/posts/gizliligini-ihlal-ediyorlar.md
+"
+          >View Raw</a
+        >
       </div>
     </div>
+    <!-- Wikipedia preview -->
+    <script src="/js/wikipedia-preview.production.js"></script>
+    <script type="text/javascript">
+      wikipediaPreview.init({
+        root: document.querySelector('.post-text'),
+        detectLinks: true,
+      });
+    </script>
+    <!-- MathJax -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script
+      id="MathJax-script"
+      async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    ></script>
   </body>
 </html>
