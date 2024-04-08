@@ -17,6 +17,6 @@ save these environments for later.
 Code execution against sample test cases is handled by
 [judge0](https://judge0.com/) cloud.
 
-Links: [GitHub](https://github.com/terror/solve),
+Links: [GitHub](https://github.com/mistih/solve),
 [Demo](https://www.youtube.com/watch?v=C8pcr6RcZ6U),
 [Website](https://solve-web.herokuapp.com/)

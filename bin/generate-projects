@@ -17,11 +17,11 @@ HEADER = '''
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="viewport" content="initial-scale=1">
-<meta property="og:title" content="liam">
-<meta property="og:description" content="liam's musings">
+<meta property="og:title" content="harun">
+<meta property="og:description" content="harun's musings">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://harunmistik.com.tr">
-<link rel="alternate" type="application/atom+xml" title="liam's musings" href="./index.xml">
+<link rel="alternate" type="application/atom+xml" title="harun's musings" href="./index.xml">
 <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png"/>
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png"/>
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png"/>
@@ -55,11 +55,11 @@ FOOTER = '''
 <div class="footer">
   <a href="/projects">Projects</a> ·
   <a href="https://stream.harunmistik.com.tr" target="_blank">Stream</a> ·
-  <a href="https://linkedin.com/in/liam-scalzulli" target="_blank"
+  <a href="https://linkedin.com/in/harun-scalzulli" target="_blank"
   >LinkedIn</a
   >
-  · <a href="https://github.com/terror" target="_blank">Github</a> ·
-  <a href="mailto:liam@scalzulli.com">Mail</a> ·
+  · <a href="https://github.com/mistih" target="_blank">Github</a> ·
+  <a href="mailto:harun@scalzulli.com">Mail</a> ·
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
   <img
   class="footimgs"

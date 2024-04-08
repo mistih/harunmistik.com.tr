@@ -15,8 +15,8 @@ editable in a temporary file on separate lines, and then performing any rename
 operations for modified lines upon exit.
 
 The tool behaves as if you were running `mv`, and has a few
-[integration tests](https://github.com/terror/edmv/blob/master/tests/integration.rs)
+[integration tests](https://github.com/mistih/edmv/blob/master/tests/integration.rs)
 that might be useful to check out as documentation.
 
-Links: [GitHub](https://github.com/terror/edmv),
+Links: [GitHub](https://github.com/mistih/edmv),
 [Crates.io](https://crates.io/crates/edmv)

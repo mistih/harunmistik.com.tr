@@ -13,7 +13,7 @@ Realizing the severe lack of efficiency present in this routine, I thought about
 2. Reading on mobile or desktop
 3. Having no effortless `like` or `archive` feature
 
-To address these problems I chose to try out [`Instapaper`](https://www.instapaper.com/) and build a simple tool called [`hackerpaper`](https://github.com/terror/hackerpaper).
+To address these problems I chose to try out [`Instapaper`](https://www.instapaper.com/) and build a simple tool called [`hackerpaper`](https://github.com/mistih/hackerpaper).
 
 Instapaper has a feature that let's you send articles to your Kindle, which makes reading blogs much more comfortable. Moreover, the built in `like` and `archive` features carryover to the Kindle as well, making it a seamless process of `read` -> `archive or like` -> `repeat`.
 

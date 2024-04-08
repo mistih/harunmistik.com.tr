@@ -14,5 +14,5 @@ fuzzy searching, tags, and link exploration.
 Fuzzy search is powered by [skim](https://github.com/lotabout/skim) with custom
 keybindings for recursive note exploration based on their links.
 
-Links: [GitHub](https://github.com/terror/zk),
+Links: [GitHub](https://github.com/mistih/zk),
 [Crates.io](https://crates.io/crates/zkt)

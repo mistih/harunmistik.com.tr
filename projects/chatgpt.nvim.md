@@ -15,4 +15,4 @@ I wrote this soon after an
 [unofficial API wrapper](https://github.com/acheong08/ChatGPT) came out for
 ChatGPT mostly as a way to explore writing Neovim plugins in Python.
 
-Links: [GitHub](https://github.com/terror/chatgpt.nvim)
+Links: [GitHub](https://github.com/mistih/chatgpt.nvim)

@@ -17,4 +17,4 @@ I wrote this as a final project for a basic web programming course I took at
 [John Abbott College](https://johnabbott.qc.ca/) taught by Helen Katalifos in my
 3rd semester.
 
-Links: [GitHub](https://github.com/terror/breakout)
+Links: [GitHub](https://github.com/mistih/breakout)

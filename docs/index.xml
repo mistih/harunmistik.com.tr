@@ -1,6 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>liam's blog</title>
+    <title>harun's blog</title>
     <link>https://harunmistik.com.tr</link>
     <description>programming, software, books</description>
     <atom:link href="https://harunmistik.com.tr/index.xml" rel="self" type="application/rss+xml" />
@@ -65,7 +65,7 @@ results in the exact block of text I want to modify.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://asciinema.org/a/507405"&gt;&lt;img
 src="https://asciinema.org/a/507405.svg" alt="asciicast" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;A reference of my full neovim configuration can be found on github,
-in my &lt;a href="https://github.com/terror/dotfiles"&gt;dotfiles&lt;/a&gt; repo. Be
+in my &lt;a href="https://github.com/mistih/dotfiles"&gt;dotfiles&lt;/a&gt; repo. Be
 sure to check it out!&lt;/p&gt;</description>
 <link>https://harunmistik.com.tr/posts/Incremental-select-with-treesitter/</link>
 <pubDate>Sat, 09 Jul 2022 04:00:00 +0000</pubDate>
@@ -244,7 +244,7 @@ mentioned here.&lt;/p&gt;</description>
 <item>
 <title>Scripting-in-markdown</title>
 <description>&lt;p&gt;I recently wrote yet another command-line utility in Rust called &lt;a
-href="https://github.com/terror/present"&gt;&lt;code&gt;present&lt;/code&gt;&lt;/a&gt; that
+href="https://github.com/mistih/present"&gt;&lt;code&gt;present&lt;/code&gt;&lt;/a&gt; that
 lets you interpolate the standard output of arbitrary commands that get
 interpreted by the shell into a markdown file, and I thought I’d share a
 bit about it here.&lt;/p&gt;
@@ -253,7 +253,7 @@ bit about it here.&lt;/p&gt;
 tool was having to &lt;em&gt;manually&lt;/em&gt; update the outputs of command line
 utility help messages in my project readme documents.&lt;/p&gt;
 &lt;p&gt;For instance, I wrote a command-line utility called &lt;a
-href="https://github.com/terror/vim-profiler"&gt;&lt;code&gt;vim-profiler&lt;/code&gt;&lt;/a&gt;
+href="https://github.com/mistih/vim-profiler"&gt;&lt;code&gt;vim-profiler&lt;/code&gt;&lt;/a&gt;
 that lets you profile the startup-time for your installed vim plugins
 and receive a nicely formatted output. In the readme document I have a
 usage section that includes the output of calling
@@ -321,7 +321,7 @@ OPTIONS:
 &lt;p&gt;In practice, I’ll add the command in a justfile &lt;code&gt;all&lt;/code&gt;
 recipe that I invoke before I commit any changes, such as shown in this
 &lt;a
-href="https://github.com/terror/present/blob/master/justfile"&gt;justfile&lt;/a&gt;.&lt;/p&gt;
+href="https://github.com/mistih/present/blob/master/justfile"&gt;justfile&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id="moving-forward"&gt;Moving forward&lt;/h3&gt;
 &lt;p&gt;The project is still in its early stages of development, and there
 most certainly exists a few non-trivial bugs to be found and fixed.&lt;/p&gt;
@@ -371,7 +371,7 @@ not the aformentioned todo’s provide useful to someone else will most
 likely have a non-trivial amount of impact on my motiviation for getting
 them done.&lt;/p&gt;
 &lt;p&gt;Feel free to check out the code over on github &lt;a
-href="https://github.com/terror/present"&gt;https://github.com/terror/present&lt;/a&gt;.
+href="https://github.com/mistih/present"&gt;https://github.com/mistih/present&lt;/a&gt;.
 It is licensed under the highly permissive &lt;a
 href="https://en.wikipedia.org/wiki/Creative_Commons_license"&gt;CC0-1.0&lt;/a&gt;
 license.&lt;/p&gt;</description>
@@ -851,7 +851,7 @@ programming language is a powerful idea to wrap your head around and a
 worth while design choice when composing large scale and complex
 applications.&lt;/p&gt;
 &lt;p&gt;All of the functions written for this post can be found here -&amp;gt; &lt;a
-href="https://gist.github.com/terror/4d86aaf49cc724d0bfe5af11d05da88e"&gt;https://gist.github.com/terror/4d86aaf49cc724d0bfe5af11d05da88e&lt;/a&gt;&lt;/p&gt;</description>
+href="https://gist.github.com/mistih/4d86aaf49cc724d0bfe5af11d05da88e"&gt;https://gist.github.com/mistih/4d86aaf49cc724d0bfe5af11d05da88e&lt;/a&gt;&lt;/p&gt;</description>
 <link>https://harunmistik.com.tr/posts/Higher-order-functions/</link>
 <pubDate>Tue, 08 Jun 2021 04:00:00 +0000</pubDate>
 <guid>https://harunmistik.com.tr/posts/Higher-order-functions/</guid>
@@ -914,7 +914,7 @@ feature&lt;/li&gt;
 &lt;p&gt;To address these problems I chose to try out &lt;a
 href="https://www.instapaper.com/"&gt;&lt;code&gt;Instapaper&lt;/code&gt;&lt;/a&gt; and build
 a simple tool called &lt;a
-href="https://github.com/terror/hackerpaper"&gt;&lt;code&gt;hackerpaper&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+href="https://github.com/mistih/hackerpaper"&gt;&lt;code&gt;hackerpaper&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Instapaper has a feature that let’s you send articles to your Kindle,
 which makes reading blogs much more comfortable. Moreover, the built in
 &lt;code&gt;like&lt;/code&gt; and &lt;code&gt;archive&lt;/code&gt; features carryover to the

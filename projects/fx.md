@@ -15,4 +15,4 @@ This was a side experiment done before implementing GPU acceleration for
 the chaining technique with
 [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) textures.
 
-Links: [GitHub](https://github.com/terror/fx)
+Links: [GitHub](https://github.com/mistih/fx)

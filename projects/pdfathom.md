@@ -16,5 +16,5 @@ disk or in the cloud - building an in-memory question-answering agent with
 [LangChain](https://python.langchain.com/docs/get_started/introduction.html) as
 the orchestrator.
 
-Links: [GitHub](http://github.com/terror/pdfathom),
+Links: [GitHub](http://github.com/mistih/pdfathom),
 [PyPI](https://pypi.org/project/pdfathom/)

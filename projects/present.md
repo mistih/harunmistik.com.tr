@@ -19,5 +19,5 @@ Simply add a suffix to the initial tag of markdown code-blocks using the format
 will run the specified `<command>`, and insert the resulting standard output
 within the same code-block.
 
-Links: [GitHub](https://github.com/terror/present),
+Links: [GitHub](https://github.com/mistih/present),
 [Crates.io](https://crates.io/crates/present)

@@ -15,5 +15,5 @@ super fast course search engine for Harvard's course catalog implemented by
 [Eric Zhang](https://www.ekzhang.com/) - in addition to noticing a need for this
 considering McGill's lack of full-text course search infrastructure.
 
-Links: [GitHub](https://github.com/terror/mcgill.wtf),
+Links: [GitHub](https://github.com/mistih/mcgill.wtf),
 [Website](https://mcgill.wtf/)

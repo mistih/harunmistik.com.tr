@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "liam-rs"
+name = "harun-com-tr"
 version = "0.0.0"
 description = "Scripts for https://harunmistik.com.tr/"
-authors = ["Liam <liam@scalzulli.com>"]
+authors = ["Harun <harun@scalzulli.com>"]
 license = "CC0-1.0"
 readme = "README.md"
-packages = [{include = "liam"}]
+packages = [{include = "harun"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"

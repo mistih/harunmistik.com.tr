@@ -16,5 +16,5 @@ cosine similarity to other sentence vectors within the same body of text -
 giving them a score that falls within a range which can easily be mapped to a
 color.
 
-Links: [GitHub](https://github.com/terror/textmap),
+Links: [GitHub](https://github.com/mistih/textmap),
 [Website](https://textmap.up.railway.app/)

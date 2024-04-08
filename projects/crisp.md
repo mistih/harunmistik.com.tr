@@ -13,4 +13,4 @@ I wrote it initially to get more familiar with C using the book
 [Build Your Own Lisp](https://buildyourownlisp.com/) by Daniel Holden as a rough 
 guide to follow.
 
-Links: [GitHub](http://github.com/terror/crisp), [Website](https://crisp.computer/)
+Links: [GitHub](http://github.com/mistih/crisp), [Website](https://crisp.computer/)

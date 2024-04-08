@@ -70,4 +70,4 @@ Here's a quick demo of it in action:
 [![asciicast](https://asciinema.org/a/507405.svg)](https://asciinema.org/a/507405)
 
 A reference of my full neovim configuration can be found on github, in my
-[dotfiles](https://github.com/terror/dotfiles) repo. Be sure to check it out!
+[dotfiles](https://github.com/mistih/dotfiles) repo. Be sure to check it out!

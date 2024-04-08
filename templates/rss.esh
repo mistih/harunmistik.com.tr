@@ -1,6 +1,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>liam's blog</title>
+    <title>harun's blog</title>
     <link>https://harunmistik.com.tr</link>
     <description>programming, software, books</description>
     <atom:link href="https://harunmistik.com.tr/index.xml" rel="self" type="application/rss+xml" />

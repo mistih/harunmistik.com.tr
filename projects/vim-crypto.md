@@ -12,4 +12,4 @@ cryptocurrency prices, populating a buffer with a nicely formatted table.
 
 I grab all up-to-date price information from [messari](https://messari.io/).
 
-Links: [GitHub](https://github.com/terror/vim-crypto)
+Links: [GitHub](https://github.com/mistih/vim-crypto)
